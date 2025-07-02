@@ -72,6 +72,16 @@ section p {
   margin-bottom: 8px;
 }
 
+.contact ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.contact li {
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
 .contact a {
   color: var(--clr-secondary);
   text-decoration: none;
